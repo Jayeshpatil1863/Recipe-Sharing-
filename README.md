@@ -18,9 +18,9 @@ A Django-based web application that allows users to create, share, and explore v
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS
 - **Backend**: Django (Python)
-- **Database**: SQLite
+- **Database**: MYSQL
 - **Authentication**: Django's built-in `User` model
 
 ---
